@@ -1,0 +1,14 @@
+127.0.0.1 - - [29/Jan/2020:02:52:58 +0100] "GET / HTTP/1.1" 404 951 http-bio-8080-exec-2 5175
+127.0.0.1 - - [29/Jan/2020:02:53:29 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-3 60
+127.0.0.1 - - [29/Jan/2020:02:55:42 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-5 20
+127.0.0.1 - - [29/Jan/2020:02:57:11 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-1 3205
+127.0.0.1 - - [29/Jan/2020:02:58:10 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-1 177
+127.0.0.1 - - [29/Jan/2020:02:58:15 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-2 10
+127.0.0.1 - - [29/Jan/2020:02:58:17 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-3 3
+127.0.0.1 - - [29/Jan/2020:02:58:18 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-4 5
+127.0.0.1 - - [29/Jan/2020:03:04:02 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-1 173
+127.0.0.1 - - [29/Jan/2020:03:04:04 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-2 6
+127.0.0.1 - - [29/Jan/2020:03:04:06 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-3 2
+127.0.0.1 - - [29/Jan/2020:03:04:07 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-4 6
+127.0.0.1 - - [29/Jan/2020:03:04:09 +0100] "GET /welcome.ca HTTP/1.1" 404 1011 http-bio-8080-exec-5 5
+127.0.0.1 - - [29/Jan/2020:03:05:18 +0100] "GET /welcome.ca HTTP/1.1" 200 95 http-bio-8080-exec-1 3054
